@@ -1,0 +1,7 @@
+{
+  "development": {
+    "database": "linkedin_extension.sqlite",
+    "dialect": "sqlite",
+    "storage": "./backend/linkedin_extension.sqlite"
+  }
+}
